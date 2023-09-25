@@ -1,0 +1,50 @@
+[
+  {
+    "id": "e65d93c3-7ffd-4ac9-a101-cef4d8f2020b",
+    "persona": "ava-snide-joke",
+    "role": "user",
+    "content": "Name five of the top capital cities with the highest population?",
+    "data": "text",
+    "date": "29-07-2023 05:21:16"
+  },
+  {
+    "id": "e65d93c3-7ffd-4ac9-a101-cef4d8f2020b",
+    "persona": "ava-snide-joke",
+    "role": "assistant",
+    "content": "Sure, here are five capital cities with high populations: Tokyo, Delhi, Beijing, Moscow, and Cairo.",
+    "data": "text",
+    "date": "29-07-2023 05:21:16"
+  },
+  {
+    "id": "3e9bdc15-6ec7-4c24-b89e-ed8cec430ddd",
+    "persona": "ava-snide-joke",
+    "role": "user",
+    "content": "Hello how are you doing today?",
+    "data": "text",
+    "date": "03-08-2023 09:50:53"
+  },
+  {
+    "id": "3e9bdc15-6ec7-4c24-b89e-ed8cec430ddd",
+    "persona": "ava-snide-joke",
+    "role": "assistant",
+    "content": "Oh, I'm just a digital assistant, no need to ask about my well-being. How can I assist you today?",
+    "data": "text",
+    "date": "03-08-2023 09:50:53"
+  },
+  {
+    "id": "3e9bdc15-6ec7-4c24-b89e-ed8cec430ddd",
+    "persona": "ava-snide-joke",
+    "role": "user",
+    "content": "What's the capital of Athens?",
+    "data": "text",
+    "date": "03-08-2023 09:55:31"
+  },
+  {
+    "id": "3e9bdc15-6ec7-4c24-b89e-ed8cec430ddd",
+    "persona": "ava-snide-joke",
+    "role": "assistant",
+    "content": "The capital of Greece is Athens.",
+    "data": "text",
+    "date": "03-08-2023 09:55:31"
+  }
+]

@@ -1,0 +1,18 @@
+[build]
+  publish = "client/build"  # The directory with your client-side build artifacts
+  functions = "server/api"     # The directory with your serverless functions
+
+# Redirects configuration (optional)
+[[redirects]]
+  from = "server/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
+
+# Headers configuration (optional)
+[[headers]]
+  path = "client/public/*"
+  headers = { "Cache-Control" = "public, max-age=31536000" }
+
+[[headers]]
+  path = "/*"
+  headers = { "Cache-Control" = "public, max-age=0, must-revalidate" }
